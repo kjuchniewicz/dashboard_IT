@@ -1,3 +1,7 @@
+# Pycharm
+.idea
+idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -104,8 +108,10 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.virtualenv
 env/
 venv/
+virtualenv/
 ENV/
 env.bak/
 venv.bak/
